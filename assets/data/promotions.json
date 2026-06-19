@@ -1,0 +1,19 @@
+{
+  "promotions": [
+    {
+      "id": "promo-ribs",
+      "title": "Легендарные рёбрышки",
+      "description": "9 часов копчения на буковом дыме — фирменная технология бара."
+    },
+    {
+      "id": "promo-brew",
+      "title": "Варим сами",
+      "description": "7 авторских сортов собственной пивоварни — вода, солод и хмель."
+    },
+    {
+      "id": "promo-burger-cola",
+      "title": "Бургер + Cola Rich",
+      "description": "Комбо «Бургер BBQ + COLA RICH» — 620 ₽."
+    }
+  ]
+}

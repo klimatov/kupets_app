@@ -1,0 +1,175 @@
+{
+  "items": [
+    {
+      "id": "lager-classic",
+      "name": "Лагер классическое фильтрованное",
+      "category": "beer_own",
+      "description": "Светлое фильтрованное. Экстр. 12 %, алк. ≥4.5 %, IBU 14. Светлый лагер с чистым солодовым ароматом и мягкой горечью.",
+      "volumes": [
+        { "size": "0.33", "unit": "л", "price": 260 },
+        { "size": "0.5", "unit": "л", "price": 370 }
+      ],
+      "abv": "4.5",
+      "ibu": "14",
+      "imageAsset": "assets/images/item_kupets.jpg"
+    },
+    {
+      "id": "amber-05",
+      "name": "Янтарное",
+      "category": "beer_own",
+      "description": "Светлое фильтрованное. Экстр. 14 %, алк. ≥5 %, IBU 14. Золотисто-янтарное пиво.",
+      "volumes": [
+        { "size": "0.33", "unit": "л", "price": 270 },
+        { "size": "0.5", "unit": "л", "price": 380 }
+      ],
+      "abv": "5.0",
+      "ibu": "14",
+      "imageAsset": "assets/images/item_kupets.jpg"
+    },
+    {
+      "id": "cherry-05",
+      "name": "Вишнёвое",
+      "category": "beer_own",
+      "description": "Светлое фильтрованное. Экстр. 14 %, алк. ≥5 %, IBU 14.",
+      "volumes": [
+        { "size": "0.33", "unit": "л", "price": 280 },
+        { "size": "0.5", "unit": "л", "price": 390 }
+      ],
+      "abv": "5.0",
+      "ibu": "14",
+      "imageAsset": "assets/images/item_kupets.jpg"
+    },
+    {
+      "id": "ipa-05",
+      "name": "Индиан Пэйл Эль (ИПА)",
+      "category": "beer_bottle",
+      "description": "Светлое фильтрованное. Экстр. 14 %, алк. ≥5.0 %, IBU 70.",
+      "volumes": [
+        { "size": "0.33", "unit": "л", "price": 320 },
+        { "size": "0.5", "unit": "л", "price": 420 }
+      ],
+      "abv": "5.0",
+      "ibu": "70",
+      "imageAsset": "assets/images/item_kupets.jpg"
+    },
+    {
+      "id": "black-chocolate-05",
+      "name": "Чёрный шоколад",
+      "category": "beer_bottle",
+      "description": "Тёмное нефильтрованное. Экстр. 14 %, алк. ≥5.0 %, IBU 16.",
+      "volumes": [
+        { "size": "0.33", "unit": "л", "price": 300 },
+        { "size": "0.5", "unit": "л", "price": 390 }
+      ],
+      "abv": "5.0",
+      "ibu": "16",
+      "imageAsset": "assets/images/item_kupets.jpg"
+    },
+    {
+      "id": "beer-for-cook",
+      "name": "Пиво повару",
+      "category": "beer_own",
+      "description": "Угостить повара любым сортом на ваш выбор.",
+      "price": 250,
+      "imageAsset": "assets/images/item_kupets.jpg"
+    },
+    {
+      "id": "tasting-set",
+      "name": "Дегустационный сет",
+      "category": "beer_own",
+      "description": "0,2 л — любой сорт на выбор.",
+      "price": 180,
+      "imageAsset": "assets/images/item_kupets.jpg"
+    },
+    {
+      "id": "ribs-black-jack",
+      "name": "Рёбра с соусом «Чёрный джек»",
+      "category": "ribs",
+      "description": "Рёбра BBQ, соус «Чёрный джек», попкорн кукурузный, лук криспи.",
+      "price": 930,
+      "weight": "330 г",
+      "imageAsset": "assets/images/item_rebra.jpg"
+    },
+    {
+      "id": "ribs-firm-bbq",
+      "name": "Рёбра с соусом «Фирменный BBQ»",
+      "category": "ribs",
+      "description": "Рёбра BBQ, соус «Фирменный BBQ», огурцы на бурбоне, лук криспи.",
+      "price": 930,
+      "weight": "360 г",
+      "imageAsset": "assets/images/item_rebra.jpg"
+    },
+    {
+      "id": "ribs-company",
+      "name": "Рёбра на компанию",
+      "category": "ribs",
+      "description": "1400 г — соусы на выбор, ребра свиные BBQ, огурцы на бурбоне, капуста маринованная.",
+      "price": 3200,
+      "weight": "1400 г",
+      "imageAsset": "assets/images/item_rebra.jpg"
+    },
+    {
+      "id": "burger-classic",
+      "name": "Бургер «Классический» с говядиной",
+      "category": "burgers",
+      "description": "Булочка, лист салата, сыр чеддер, томат, огурец, соусы BBQ и чесночный.",
+      "price": 555,
+      "weight": "250 г",
+      "imageAsset": "assets/images/item_burger.jpg"
+    },
+    {
+      "id": "burger-black-jack",
+      "name": "Бургер «Чёрный джек»",
+      "category": "burgers",
+      "description": "Котлета из говядины, бекон, сыр чеддер, соус «Чёрный джек».",
+      "price": 580,
+      "weight": "230 г",
+      "imageAsset": "assets/images/item_burger.jpg"
+    },
+    {
+      "id": "burger-chef",
+      "name": "«Шеф-бургер»",
+      "category": "burgers",
+      "description": "Две котлеты из говядины, бекон, двойной чеддер, соусы «Чёрный джек» и «Горчичный».",
+      "price": 920,
+      "weight": "380 г",
+      "imageAsset": "assets/images/item_burger.jpg"
+    },
+    {
+      "id": "croutons-borodino",
+      "name": "Гренки «Бородинские»",
+      "category": "snacks",
+      "description": "200 г.",
+      "price": 210,
+      "weight": "200 г",
+      "imageAsset": "assets/images/item_grenki.jpg"
+    },
+    {
+      "id": "cucumbers-bourbon",
+      "name": "Огурцы на бурбоне",
+      "category": "snacks",
+      "description": "150 г.",
+      "price": 380,
+      "weight": "150 г",
+      "imageAsset": "assets/images/item_grenki.jpg"
+    },
+    {
+      "id": "wings-bbq",
+      "name": "Крылья в соусе «BBQ»",
+      "category": "snacks",
+      "description": "Крылья куриные, соус BBQ, картофель фри, лайм.",
+      "price": 590,
+      "weight": "300 г",
+      "imageAsset": "assets/images/item_burger.jpg"
+    },
+    {
+      "id": "steak-shoulder",
+      "name": "Стейк из свиной лопатки",
+      "category": "grill",
+      "description": "Томление 24 ч + копчение на буковом брусе. С соусами BBQ, чимичурри, медово-горчичным.",
+      "price": 590,
+      "weight": "310 г",
+      "imageAsset": "assets/images/item_rebra.jpg"
+    }
+  ]
+}
