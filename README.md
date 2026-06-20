@@ -45,7 +45,7 @@
 Требования: Flutter SDK 3.12+, Android SDK (для эмулятора или телефона).
 
 ```bash
-git clone <url-репозитория>
+git clone https://github.com/klimatov/kupets_app
 cd kupets_app
 flutter pub get
 flutter run
